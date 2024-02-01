@@ -1,3 +1,3 @@
 # PwC-project
 
-This project is
+This was a project I developed in my Marketing Lab at univeristy. It focused on evaluating PwC's marketing strategies and proposing tactics to engage a younger audience. Recognizing TikTok's potential, we recommended its integration into PwC's marketing mix. Through extensive research, we identified TikTok's appeal to younger demographics and developed a tailored content strategy, emphasizing authenticity and creativity. Our recommendations included diverse content formats, seamless platform integration, and clear KPIs for performance measurement. By embracing TikTok, PwC can effectively showcase its expertise, culture, and career opportunities, fostering engagement and brand affinity among millennials and Gen Z, ultimately driving sustainable growth in the digital era.
